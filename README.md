@@ -2,6 +2,10 @@
 Dashboard logístico e financeiro desenvolvido em Power BI para monitoramento de KPI’s como OTIF, INFULL, ONTIME, pedidos, ocorrências, receita, custos e margem. O projeto utiliza modelagem de dados, Power Query e DAX para apoiar análises operacionais e estratégicas dos Centros de Distribuição.
 
 Dashboard Logístico e Financeiro | Power BI
+
+# Acesse o Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiZThiNTY2MmMtZTczYi00YjA2LTg0NjItZTFiM2U1NzdlMDQ5IiwidCI6IjkzNTIxOTgyLTcyNTUtNDQ2Mi04OTA4LTZkNGY3MTk5ZGI3YSJ9
+
 Sobre o Projeto
 
 Este projeto foi desenvolvido com o objetivo de solucionar um problema de negócio relacionado ao acompanhamento operacional e financeiro da logística de uma empresa.
@@ -47,14 +51,13 @@ Custos Logísticos
 Margem
 % Margem
 Ticket Médio
-Estrutura do Dashboard
-Página KPI’s Logísticos
-Visão Geral
+
 
 O dashboard apresenta uma visão consolidada da operação logística com filtros por:
 
 Centro de Distribuição
 Ano
+
 <img width="458" height="209" alt="image" src="https://github.com/user-attachments/assets/2813bf00-9112-43a5-b989-6c234286f014" />
 
 KPI’s OTIF, INFULL e ONTIME
@@ -76,12 +79,16 @@ ONTIME
 
 Indicador utilizado para acompanhar entregas realizadas dentro do prazo.
 
-<img src="images/kpis-otif.png" width="100%">
+<img width="927" height="198" alt="image" src="https://github.com/user-attachments/assets/ec50e071-bfda-4127-8952-ee2e19d48b2f" />
+
+
 Pedidos no Prazo x Atrasados
 
 Visual criado para comparar o volume de pedidos entregues no prazo e pedidos atrasados, auxiliando na identificação de gargalos operacionais.
 
-<img src="images/pedidos-prazo-atrasados.png" width="100%">
+<img width="239" height="228" alt="image" src="https://github.com/user-attachments/assets/83b4209e-981e-4dfc-abf1-6131b2859699" />
+
+
 Ocorrências Logísticas
 
 O dashboard também apresenta as principais ocorrências registradas durante a operação logística.
@@ -96,7 +103,9 @@ Recusa do Cliente
 
 Esse acompanhamento auxilia na identificação das principais causas de falhas operacionais.
 
-<img src="images/ocorrencias.png" width="100%">
+<img width="366" height="224" alt="image" src="https://github.com/user-attachments/assets/ba90de85-b41a-4089-9fe2-ef6c61f859d7" />
+
+
 Distribuição por Tipo de Veículo
 
 Visual utilizado para analisar a distribuição operacional por modal de transporte.
@@ -108,7 +117,10 @@ Truck
 Carreta 2 Eixos
 Rodotrem
 Bitrem
-<img src="images/veiculos.png" width="100%">
+
+<img width="375" height="220" alt="image" src="https://github.com/user-attachments/assets/1839e266-d7d4-4d85-86a5-e064187ae7fa" />
+
+
 Evolução Mensal do OTIF
 
 Gráfico temporal desenvolvido para acompanhar a evolução mensal do indicador OTIF ao longo do ano.
@@ -118,7 +130,10 @@ Com esse visual é possível:
 Identificar sazonalidades;
 Comparar períodos;
 Detectar quedas operacionais.
-<img src="images/otif-mensal.png" width="100%">
+
+<img width="1036" height="228" alt="image" src="https://github.com/user-attachments/assets/151319ec-6cbd-469f-a0e8-4c847a327514" />
+
+
 OTIF por Cidade
 
 Mapa geográfico criado para visualizar o desempenho logístico por cidade e região.
@@ -128,13 +143,12 @@ Esse visual auxilia na identificação de:
 Regiões críticas;
 Centros com menor performance;
 Distribuição operacional das entregas.
-<img src="images/mapa-otif.png" width="100%">
-Página Financeira
-Visão Financeira
+
+<img width="284" height="481" alt="image" src="https://github.com/user-attachments/assets/b473f87b-e018-488f-b8c6-8dd237de6daf" />
+
 
 A segunda página do dashboard apresenta os principais indicadores financeiros da operação logística.
 
-<img src="images/financeiro-geral.png" width="100%">
 Receita, Custos e Margem
 
 Os cards financeiros apresentam:
@@ -147,19 +161,24 @@ Ticket Médio.
 
 Esses indicadores auxiliam na análise da rentabilidade operacional.
 
-<img src="images/cards-financeiros.png" width="100%">
+<img width="942" height="137" alt="image" src="https://github.com/user-attachments/assets/de7a7502-5e48-4bc3-8f4f-61488e437d13" />
+
+
 Receita Bruta por Veículo
 
 Visual utilizado para analisar quais veículos possuem maior representatividade financeira na operação.
 
-<img src="images/receita-veiculo.png" width="100%">
+<img width="506" height="259" alt="image" src="https://github.com/user-attachments/assets/f0e6d74e-d8f0-4ba8-8197-c2db9583708d" />
+
 Receita por Ocorrência
 
 Análise financeira relacionada às ocorrências logísticas registradas.
 
 Esse visual permite avaliar impactos financeiros causados por falhas operacionais.
 
-<img src="images/receita-ocorrencia.png" width="100%">
+<img width="502" height="270" alt="image" src="https://github.com/user-attachments/assets/c59d89e9-8fb6-40e0-b812-c6b9d6a157ea" />
+
+
 Receita Bruta e Margem por Mês
 
 Gráfico temporal utilizado para acompanhar:
@@ -167,12 +186,19 @@ Gráfico temporal utilizado para acompanhar:
 Evolução da receita;
 Evolução da margem;
 Tendências financeiras da operação.
-<img src="images/receita-margem-mensal.png" width="100%">
+
+<img width="1045" height="249" alt="image" src="https://github.com/user-attachments/assets/ecd9704f-57a9-474d-92aa-6837c2334f62" />
+
+
+
 Receita Bruta por Cidade
 
 Mapa geográfico responsável por apresentar a distribuição financeira das operações por região.
 
-<img src="images/mapa-financeiro.png" width="100%">
+<img width="277" height="530" alt="image" src="https://github.com/user-attachments/assets/95c8ad67-2534-415b-9d28-5a694f897cc1" />
+
+
+
 Tooltips Personalizados
 
 Foram desenvolvidos tooltips personalizados para enriquecer a experiência analítica do usuário.
@@ -183,7 +209,17 @@ Quantidade de pedidos;
 Distribuição por ocorrência;
 Distribuição por veículo;
 KPI OTIF regional.
-<img src="images/tooltips.png" width="100%">
+
+<img width="498" height="263" alt="image" src="https://github.com/user-attachments/assets/91ccb109-e134-420e-9107-3eba28e3b991" />
+
+<img width="484" height="268" alt="image" src="https://github.com/user-attachments/assets/97eb6924-b579-40c9-b9f6-2c6452a342b7" />
+
+<img width="270" height="200" alt="image" src="https://github.com/user-attachments/assets/52ddde4c-7ffb-442c-9d99-db2afd4807b8" />
+
+
+
+
+
 Medidas DAX Desenvolvidas
 
 O projeto conta com diversas medidas DAX utilizadas para construção dos indicadores.
@@ -215,7 +251,10 @@ dCalendario
 dCD
 dStatus
 dTransporte
-<img src="images/modelagem.png" width="100%">
+
+<img width="1251" height="634" alt="image" src="https://github.com/user-attachments/assets/bda69a67-f23a-462b-8883-60fadc22795f" />
+
+
 Principais Insights
 Identificação de CDs com menor OTIF;
 Análise das principais causas de atraso;
@@ -242,5 +281,4 @@ Python
 Análise de Dados
 Visualização de Dados
 
-LinkedIn: coloque seu link
-Portfólio: coloque seu link
+LinkedIn: https://www.linkedin.com/in/cauedesiqueira/
