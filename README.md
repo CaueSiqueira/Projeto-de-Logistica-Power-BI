@@ -6,15 +6,13 @@ Dashboard Logístico e Financeiro | Power BI
 # Acesse o Dashboard
 https://app.powerbi.com/view?r=eyJrIjoiZThiNTY2MmMtZTczYi00YjA2LTg0NjItZTFiM2U1NzdlMDQ5IiwidCI6IjkzNTIxOTgyLTcyNTUtNDQ2Mi04OTA4LTZkNGY3MTk5ZGI3YSJ9
 
-Sobre o Projeto
+# Sobre o Projeto
 
 Este projeto foi desenvolvido com o objetivo de solucionar um problema de negócio relacionado ao acompanhamento operacional e financeiro da logística de uma empresa.
-
 A organização enfrentava dificuldades para monitorar o desempenho logístico dos Centros de Distribuição (CDs), pois não possuía uma visão consolidada e acessível dos dados operacionais, dificultando a tomada de decisão.
-
 Diante disso, foi solicitado o desenvolvimento de um dashboard interativo no Power BI, permitindo uma análise completa dos principais indicadores logísticos e financeiros da operação.
 
-Problema de Negócio
+# Problema de Negócio
 
 A empresa precisava:
 
@@ -30,14 +28,14 @@ Visualizar dados geográficos por cidade.
 
 O objetivo principal era criar um painel intuitivo, segmentável por ano e centro de distribuição, auxiliando tanto o controle operacional quanto a tomada de decisão estratégica.
 
-Ferramentas Utilizadas
+Ferramentas Utilizadas:
 Power BI
 DAX
 Power Query
 Modelagem de Dados
 Excel / CSV
 
-Indicadores Desenvolvidos
+Indicadores Desenvolvidos:
 KPI’s Logísticos
 OTIF
 INFULL
